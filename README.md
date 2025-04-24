@@ -1,1 +1,2 @@
-python程序的目的是，把加密的vmess节点链接转化为Quantumult x支持的本地节点链接转化后的链接，放入Quantumultx中的[server_local]中即可正确使用。其他格式待开发，可以给个麻烦的小星星嘛~
+Python程序的目的是，把加密的vmess节点链接转化为Quantumult x支持的本地节点链接转化后的链接，放入Quantumultx中的[server_local]中即可正确使用。
+其他格式待开发，可以给个麻烦的小星星嘛~
