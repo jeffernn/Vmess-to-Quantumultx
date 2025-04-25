@@ -27,3 +27,5 @@
 如果这个项目对你有帮助，请点击右上角 **Star** 支持开发者！你的鼓励是我们持续更新的动力~
 
 > 声明：请确保遵守当地法律法规，合法使用网络资源，本教程不提供任何教学，只提供一个便携的PY程序。本工具仅限技术研究用途，请在24小时内删除。
+## ⭐ Star 增长趋势
+![Star History Chart](https://star-history.com/svg?repos=jeffernn/Vmess-Quantumultx仓库名&type=Date)
